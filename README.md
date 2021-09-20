@@ -1,3 +1,4 @@
 # commands
 Project Team Members:
-Victoria Bockman
+Victoria Bockma
+dana alasfour
